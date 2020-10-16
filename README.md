@@ -3,8 +3,6 @@
 
 Repository for custom packages. 
 
-<hr>
-
 ## List of Packages
 
 1. Yay (Yet Another Yogurt) - AUR Helper
