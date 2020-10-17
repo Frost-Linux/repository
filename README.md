@@ -9,3 +9,5 @@ Repository for custom packages.
 2. TunSafe - WireGuard VPN client
 3. FreeTube - Privacy respecting YouTube
 4. AutoHosts - /etc/hosts based ad-blocking. Updates automatically 
+5. Calamares - Installer for Frost Linux
+6. Calamares-Config-XFCE - Branding and configuration files for Calamares (XFCE DE)
