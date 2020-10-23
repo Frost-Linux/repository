@@ -14,5 +14,5 @@ git add .
 echo "Enter commit message:" 
 read input
 
-git commit -m $input
+git commit -m "$input"
 git push
