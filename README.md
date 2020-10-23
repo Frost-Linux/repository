@@ -20,3 +20,4 @@ Repository for custom packages.
 13. Frostools - Toolkit to build Frost Linux ISOs
 14. LSB Release - LSB Release files for Frost Linux
 15. Frost Live (Runit, S6 and OpenRC) - Live scripts for the init systems
+16. Pacman - Package Manager
